@@ -1,4 +1,4 @@
-year = int (input ('Enter a year (4 digit) : '))
+year = int (input ('Enter a year (4 dileap_year.pygit) : '))
 if year % 4 == 0 and year % 100 == 0:
     if year % 400 == 0:
         print(f"{year} is leap year.")
@@ -7,4 +7,5 @@ if year % 4 == 0 and year % 100 == 0:
 elif year % 4 == 0:
     print(f"{year} is leap year.")
 else:
-    print(f"{year} is NOT leap year. ")
+    print(f"{year} is NOT leap year. "this is the first clone"
+
